@@ -1,4 +1,3 @@
 ### Github File Push Ignore
 
-build/com/**/*.class
-build/*.jar
+build
